@@ -1,0 +1,29 @@
+.form {
+  align-content: center;
+}
+
+input {
+  border-radius: 5px;
+  border-color: lightgray;
+}
+
+textarea {
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+button {
+  color: black;
+  border-radius: 10px;
+  background-color: lightgray;
+  margin-top: 10px;
+}
+
+button:hover {
+  color: white;
+  background-color: red;
+}
+
+body {
+  background-color: lightskyblue;
+}

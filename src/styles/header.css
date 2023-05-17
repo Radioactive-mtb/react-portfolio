@@ -1,0 +1,18 @@
+.header {
+  background: #03045e;
+  height: auto;
+  width: 100vw;
+  border-style: none;
+}
+
+.nav {
+  font-size: 20px;
+}
+
+.nav-item {
+  margin-top: 5px;
+}
+
+.header .nav .nav-link.active {
+  background-color: #90e0ef;
+}
