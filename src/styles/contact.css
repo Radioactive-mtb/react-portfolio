@@ -12,18 +12,13 @@ textarea {
   margin-top: 5px;
 }
 
-button {
-  color: black;
-  border-radius: 10px;
-  background-color: lightgray;
-  margin-top: 10px;
+.ctbtn {
+  background-color: #03045e;
+  color: #0077b6;
+  border-radius: 5px;
 }
 
-button:hover {
+.ctbtn:hover {
   color: white;
   background-color: red;
-}
-
-body {
-  background-color: lightskyblue;
 }

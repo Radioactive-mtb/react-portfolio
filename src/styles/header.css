@@ -1,8 +1,15 @@
 .header {
   background: #03045e;
   height: auto;
-  width: 100vw;
-  border-style: none;
+  width: auto;
+}
+
+.h-name {
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+  color: white;
 }
 
 .nav {

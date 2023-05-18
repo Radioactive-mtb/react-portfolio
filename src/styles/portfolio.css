@@ -1,4 +1,22 @@
 .card {
-  max-width: 200px;
-  max-height: 200px;
+  border: none;
+  background-color: #0077b6;
+  border-style: none;
+}
+
+.ptbtn {
+  background-color: #03045e;
+  color: #0077b6;
+  text-align: center;
+}
+
+.ptbtn:hover {
+  color: white;
+  background-color: red;
+}
+
+.backimg {
+  width: auto;
+  height: auto;
+  aspect-ratio: 2/2;
 }

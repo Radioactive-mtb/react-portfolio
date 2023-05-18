@@ -1,0 +1,14 @@
+.rsbtn {
+  background-color: #03045e;
+  color: #0077b6;
+  border-radius: 5px;
+}
+
+.rsbtn:hover {
+  color: white;
+  background-color: red;
+}
+
+.frntend {
+  justify-content: center;
+}

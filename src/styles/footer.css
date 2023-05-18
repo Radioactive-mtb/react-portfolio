@@ -1,0 +1,23 @@
+footer {
+  padding-bottom: 7rem;
+  overflow: hidden;
+}
+
+.footer {
+  text-align: center;
+  height: 100%;
+  position: relative;
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: absolute;
+  gap: 0.8rem;
+  left: 50%;
+}
+
+.footer-links a {
+  color: #03045e;
+}
