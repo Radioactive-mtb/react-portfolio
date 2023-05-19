@@ -12,7 +12,8 @@ export default function About() {
       <div className="text">
         <p>
           I am Justen Tatum a student currently studying web development at Edx
-          Bootcamps at University of California Riverside.
+          Bootcamps at University of California Riverside. I am an avid mountain
+          biker and enjoy taking trips to different places to ride my bike.
         </p>
       </div>
     </div>
