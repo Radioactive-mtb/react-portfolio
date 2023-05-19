@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github-pages-react-portfolio/static/css/main.4f5ca343.css",
-    "main.js": "/github-pages-react-portfolio/static/js/main.53d46a73.js",
-    "static/media/Buzzer.png": "/github-pages-react-portfolio/static/media/Buzzer.2c02bf7c700a6188c2c7.png",
-    "static/media/empty-cocktail.jpg": "/github-pages-react-portfolio/static/media/empty-cocktail.6a716ee0d69b20fc86f0.jpg",
-    "static/media/password.png": "/github-pages-react-portfolio/static/media/password.a1269d22050a79e598ad.png",
-    "index.html": "/github-pages-react-portfolio/index.html",
-    "main.4f5ca343.css.map": "/github-pages-react-portfolio/static/css/main.4f5ca343.css.map",
-    "main.53d46a73.js.map": "/github-pages-react-portfolio/static/js/main.53d46a73.js.map"
+    "main.css": "/react-portfolio/static/css/main.4f5ca343.css",
+    "main.js": "/react-portfolio/static/js/main.8f29f506.js",
+    "static/media/Buzzer.png": "/react-portfolio/static/media/Buzzer.2c02bf7c700a6188c2c7.png",
+    "static/media/empty-cocktail.jpg": "/react-portfolio/static/media/empty-cocktail.6a716ee0d69b20fc86f0.jpg",
+    "static/media/password.png": "/react-portfolio/static/media/password.a1269d22050a79e598ad.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.4f5ca343.css.map": "/react-portfolio/static/css/main.4f5ca343.css.map",
+    "main.8f29f506.js.map": "/react-portfolio/static/js/main.8f29f506.js.map"
   },
   "entrypoints": [
     "static/css/main.4f5ca343.css",
-    "static/js/main.53d46a73.js"
+    "static/js/main.8f29f506.js"
   ]
 }
