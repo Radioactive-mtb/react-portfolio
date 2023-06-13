@@ -3,6 +3,7 @@ import SP from "../../images/empty-cocktail.jpg";
 import BZ from "../../images/Buzzer.png";
 import PASS from "../../images/password.png";
 import TXT from "../../images/logo.png";
+import HT from "../../images/highlighter.png";
 import "../../styles/portfolio.css";
 
 export default function Portfolio() {
@@ -96,11 +97,18 @@ export default function Portfolio() {
         </div>
 
         <div className="col-md m-5 card  ">
-          <a href="github.com" className="ptbtn btn-sm">
+          <img className="backimg" src={HT} alt="highlighter" />
+          <a
+            href="https://peaceful-island-43281.herokuapp.com/#"
+            className="ptbtn btn-sm"
+          >
             Deployed App
           </a>
 
-          <a href="#github.com" className="ptbtn btn-sm">
+          <a
+            href="https://github.com/Radioactive-mtb/highlighter"
+            className="ptbtn btn-sm"
+          >
             GitHub Repository
           </a>
         </div>
